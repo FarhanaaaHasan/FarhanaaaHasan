@@ -1,4 +1,8 @@
-## Hi there 👋
+<h2>
+  Hi, I'm Farhana Hasan!
+  <img src="https://github.com/user-attachments/assets/b50a291a-44dd-4d26-acfd-7f2068cc3459" width="75px">
+</h2>
+
 
 <!--
 **FarhanaaaHasan/FarhanaaaHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
