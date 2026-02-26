@@ -12,12 +12,7 @@ This GitHub space showcases my projects, technical growth, and continuous learni
 
 Feel free to explore, collaborate, or connect!
 
----
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=FarhanaaaHasan&theme=default)
-
----
 
 
 
@@ -64,9 +59,14 @@ Feel free to explore, collaborate, or connect!
 
 </div>
 
+---
 
+---
 
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=FarhanaaaHasan&theme=default)
 
+---
 
 
 
