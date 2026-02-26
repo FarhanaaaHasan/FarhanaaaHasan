@@ -4,8 +4,9 @@
   <img src="https://github.com/user-attachments/assets/b50a291a-44dd-4d26-acfd-7f2068cc3459" width="75px">
 </h2>
 </h1>
+<!-- Animated typing effect - left aligned -->
+<img src="https://readme-typing-svg.demolab.com/?lines=Computer%20Science%20Student%20%7C%20Passionate%20Learner;Exploring%20AI%20%2C%20Development%20%26%20New%20Technologies;Always%20Learning%20Something%20New%20%F0%9F%9A%80&font=Fira%20Code&width=700&height=50&duration=3000&pause=1500&color=6366F1" />
 
-### 
 
 Welcome! I'm Farhana, a Computer Science student passionate about building practical and impactful digital solutions.  
 This GitHub space showcases my projects, technical growth, and continuous learning journey in software development.
@@ -71,17 +72,3 @@ Feel free to explore, collaborate, or connect!
 
 
 
-<!--
-**FarhanaaaHasan/FarhanaaaHasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
